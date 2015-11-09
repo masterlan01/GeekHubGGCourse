@@ -1,0 +1,11 @@
+select Case
+install PowerSupply
+install MotherBoard
+install CPU
+install Cooler
+install RAM
+install Video
+install HDD
+
+
+
